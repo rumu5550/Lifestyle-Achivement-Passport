@@ -1,7 +1,24 @@
+.heading {
+  text-align: center;
+}
 .namefield {
   display: flex;
   column-gap: 5px;
 }
+
+.container {
+  margin: 0px auto;
+  padding-top: 40px;
+  border: 1px solid;
+  margin-top: 70px;
+  padding: 20px;
+}
+
+.flex {
+  display: flex;
+}
+
+
 .scoring {
   display: flex;
   justify-content: center;
@@ -29,7 +46,7 @@
   text-align: center;
 }
 .quickSection {
-  background-color: aquamarine;
+  background-color: rgb(151, 153, 152);
   width: 900px;
   margin: 30px auto;
   padding: 10px;
@@ -51,10 +68,13 @@
   height: 80px;
   width: 350px;
 }
-.container {
-  margin: 0px auto;
-  padding-top: 40px;
-}
-.flex {
+.ppicture{
+  
+ border-radius: 50%;
+ height: 80px;
+ width: 80px;
+ }
+ .picture{
   display: flex;
-}
+  justify-content: center;
+ }
