@@ -48,7 +48,7 @@
           <br />
           <textarea name="bio" class="bio"></textarea>
         </div>
-        <a href="personalized_dashboard.html"><button>Save Changes</button></a>
+        <a href="personalized_dashboard.php"><button>Save Changes</button></a>
       </div>
     </div>
   </body>

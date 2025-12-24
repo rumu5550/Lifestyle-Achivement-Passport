@@ -26,14 +26,14 @@
         </div>
         <br />
         <div>
-          <a href="resetpassword.html">Forgot Password?</a>
+          <a href="resetpassword.php">Forgot Password?</a>
         </div>
         <br />
         <div>
           <input type="submit" value="Sign In" />
         </div>
         <div>
-          <h4>Don't have an account? <a href="signup.html">Sign Up</a></h4>
+          <h4>Don't have an account? <a href="signup.php">Sign Up</a></h4>
         </div>
       </div>
     </div>

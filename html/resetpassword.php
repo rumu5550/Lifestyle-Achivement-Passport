@@ -24,7 +24,7 @@
     <br />
     <br />
     <div>
-      <a href="signin.html"><button>Reset Password</button></a>
+      <a href="signin.php"><button>Reset Password</button></a>
     </div>
        </div>
     </div>

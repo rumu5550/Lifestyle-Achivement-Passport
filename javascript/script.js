@@ -19,10 +19,10 @@ function testname() {
 function testPassword() {
   let password = document.getElementById("password").value;
   if (password == "") {
-    cperror.innerHTML = "please type password first!";
-    cperror.style.color = "red";
+    pError.innerHTML = "please type password first!";
+    pError.style.color = "red";
   } else {
-    cperror.innerHTML = "";
+    pError.innerHTML = "";
   }
 }
 
